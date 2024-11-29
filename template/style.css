@@ -1,0 +1,17 @@
+
+body{
+    width: 400px;
+    height:400px;
+    background: rgb(245, 234, 226);
+    padding:0;
+}
+
+.body_container{
+    width:100%;
+    height:100%;
+    border:4px lightcoral;
+}
+.todo_header{
+    width:100%;
+    color:aliceblue;
+}
